@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body
+{
+  margin : 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #eff2f5;
+}
+
+/* .card1 {
+  background-color: linear-gradient(from rgba(121, 241, 164, 1),to rgba(14, 92, 173, 1));
+} */
